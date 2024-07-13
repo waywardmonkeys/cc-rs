@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.3](https://github.com/waywardmonkeys/cc-rs/compare/cc-v1.1.2...cc-v1.1.3) - 2024-07-13
+
+### Other
+- Fix typos ([#1152](https://github.com/waywardmonkeys/cc-rs/pull/1152))
+- Fix `doc_lazy_continuation` lints ([#1153](https://github.com/waywardmonkeys/cc-rs/pull/1153))
+
 ## [1.1.2](https://github.com/rust-lang/cc-rs/compare/cc-v1.1.1...cc-v1.1.2) - 2024-07-12
 
 ### Other
